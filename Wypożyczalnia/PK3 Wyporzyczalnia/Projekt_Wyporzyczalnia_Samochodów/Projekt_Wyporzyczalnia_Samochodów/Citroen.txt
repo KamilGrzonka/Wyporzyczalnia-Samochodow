@@ -1,0 +1,6 @@
+Specyfikacja samochodu marki Citroen:
+- moc pojazdu: 241 KM
+- maksymalna predkosc: 240 km/h
+- przyspieszenie do setki: 8,9 s
+- spalanie: 7,5 l/100 km
+- cena wynajmu: 400 zl/doba

@@ -1,0 +1,6 @@
+Specyfikacja samochodu marki Opel:
+- moc pojazdu: 90 KM
+- maksymalna predkosc: 175 km/h
+- przyspieszenie do setki: 13,9 s
+- spalanie: 4,8 l/100 km
+- cena wynajmu: 175 zl/doba

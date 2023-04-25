@@ -1,0 +1,6 @@
+Specyfikacja samochodu marki Honda:
+- moc pojazdu: 144 KM
+- maksymalna predkosc: 180 km/h
+- przyspieszenie do setki: 8,1 s
+- spalanie: 5 l/100 km
+- cena wynajmu: 300 zl/doba

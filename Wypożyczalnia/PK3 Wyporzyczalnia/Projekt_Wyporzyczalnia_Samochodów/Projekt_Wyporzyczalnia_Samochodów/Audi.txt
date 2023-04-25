@@ -1,0 +1,6 @@
+Specyfikacja samochodu marki Audi:
+- moc pojazdu: 450 KM
+- maksymalna predkosc: 250 km/h
+- przyspieszenie do setki: 4,4 s
+- spalanie: 9,2 l/100 km
+- cena wynajmu: 650 zl/doba

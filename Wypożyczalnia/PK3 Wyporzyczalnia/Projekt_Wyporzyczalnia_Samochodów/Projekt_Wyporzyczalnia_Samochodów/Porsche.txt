@@ -1,0 +1,6 @@
+Specyfikacja samochodu marki Porsche:
+- moc pojazdu: 620 KM
+- maksymalna predkosc: 329 km/h
+- przyspieszenie do setki: 3,1 s
+- spalanie: 12,1 l/100 km
+- cena wynajmu: 900 zl/doba

@@ -1,0 +1,5 @@
+Tesla 100000
+Audi 60000
+Maluch 1000
+Fiat 5000
+Ferrari 1000000

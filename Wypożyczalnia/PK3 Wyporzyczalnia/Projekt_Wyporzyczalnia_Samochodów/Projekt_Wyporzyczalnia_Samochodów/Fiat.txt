@@ -1,0 +1,6 @@
+Specyfikacja samochodu marki Fiat:
+- moc pojazdu: 110 KM
+- maksymalna predkosc: 180 km/h
+- przyspieszenie do setki: 11,7 s
+- spalanie: 6,3 l/100 km
+- cena wynajmu: 275 zl/doba

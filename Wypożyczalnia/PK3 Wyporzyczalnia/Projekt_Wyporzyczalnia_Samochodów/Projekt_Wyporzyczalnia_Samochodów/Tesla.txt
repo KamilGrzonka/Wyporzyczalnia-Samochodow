@@ -1,0 +1,6 @@
+Specyfikacja samochodu marki Tesla:
+- moc pojazdu: 1020 KM
+- maksymalna predkosc: 322 km/h
+- przyspieszenie do setki: 2,1 s
+- zasieg: 600 km
+- cena wynajmu: 1000 zl/doba
